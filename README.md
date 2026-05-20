@@ -1,4 +1,4 @@
-# LG HUB Restart Script
+# Logitech G HUB Restart Script
 
 PowerShell script to restart Logitech G HUB in a specific order after login to work around the perpetual loading bug.
 
