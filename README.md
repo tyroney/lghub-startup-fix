@@ -1,6 +1,6 @@
 # LG HUB Restart Script
 
-PowerShell script to restart Logitech G HUB in a specific order after login.
+PowerShell script to restart Logitech G HUB in a specific order after login to counteract perpetual loading bug.
 
 ## Why this exists
 
